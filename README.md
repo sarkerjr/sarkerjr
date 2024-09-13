@@ -2,7 +2,7 @@
 
 `🎓 Bangabandhu Sheikh Mujibur Rahman Science and Technology University`<br/>
 `📧 sarkerjr@gmail.com`<br/>
-`🏠 Rangpur, Bangladesh`<br/>
+`🏠 Dhaka, Bangladesh`<br/>
 
 
 > Errors are red, my screen is blue, I hate that os contains sys32.<br/>
