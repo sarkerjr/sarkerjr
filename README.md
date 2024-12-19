@@ -10,7 +10,7 @@
 A Gopher-head with a knack for scalable backend architecture.
 
 ### Languages and Tools  
-<img width="400" src="https://skillicons.dev/icons?i=go,js,ts,nodejs,postgres,prisma,react,nextjs,git,bash," />
+<img width="400" src="https://skillicons.dev/icons?i=go,js,ts,nodejs,postgres,react,svelte,git,bash,linux" />
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sarkerjr) 
