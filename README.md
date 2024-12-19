@@ -7,8 +7,7 @@
 
 > Errors are red, my screen is blue, I hate that os contains sys32.<br/>
 
-Hi there, this is Anik Sarker, an Electrical and Electronics Engineering graduate. I am a self-taught software developer. I do full-stack development with the latest technology out there. I embrace the idea of good practice and clean code. </br> </br>
-I have experience in building scalable and maintainable web applications. My skills include building responsive and user-friendly interfaces using React, and Nextjs, as well as developing server-side applications using frameworks such as Node.js. I also have experience with various databases such as MySQL, PostgreSQL, and Firebase.
+A Gopher-head with a knack for scalable backend architecture.
 
 ### Languages and Tools  
 <img width="400" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,prisma,git,bash," />
